@@ -1,0 +1,9 @@
+aiodns
+aiogram
+aioping
+aioschedule
+async_timeout
+exchangelib
+pandas
+pytz
+openpyxl
