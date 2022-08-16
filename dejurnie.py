@@ -8,7 +8,7 @@ def dejurnie():
     import pandas as pd
     import datetime
 
-    excel_data = pd.read_excel('/projects/sb_bot/data/june.xlsx')
+    excel_data = pd.read_excel('/projects/sb_bot/data/dej_graph.xlsx')
     pikperson = '/projects/sb_bot/data/pikperson.dat'
     data = pd.DataFrame(excel_data, )
     month_list = []
